@@ -1,3 +1,4 @@
+//Author:MengLu Zhou
 #include "game.h"
 #include <iostream>
 using namespace std;
@@ -282,5 +283,6 @@ float Game::calc_prob()
 			prob = pow(1.0 - (float)higher_than_me_num / 1081.0,num_in_game);
 		}
 	}
+	
 	return prob;
 }
