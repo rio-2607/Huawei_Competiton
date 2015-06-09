@@ -1,3 +1,4 @@
+//Author:MengLu Zhou
 #include "game.h"
 #include <iostream>
 using namespace std;
